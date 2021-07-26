@@ -1,0 +1,2 @@
+rootProject.name = "tetris001"
+include ':app'
